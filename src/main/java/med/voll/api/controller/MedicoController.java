@@ -10,6 +10,6 @@ public class MedicoController {
 
     @PostMapping()
     public void registrarMedico(){
-        System.out.println("Request llega correctamente");
+        System.out.println("Request llega correctamente!");
     }
 }
